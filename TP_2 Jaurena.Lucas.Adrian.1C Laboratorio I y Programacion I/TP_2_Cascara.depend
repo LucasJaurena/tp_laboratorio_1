@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1493433344 source:c:\users\lucas\desktop\tp2 fecha de entrega 28-04-2017\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493433207 c:\users\lucas\desktop\tp2 fecha de entrega 28-04-2017\tp_2_cascara\tp_2_cascara\funciones.h
+
+1493433276 source:c:\users\lucas\desktop\tp2 fecha de entrega 28-04-2017\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
