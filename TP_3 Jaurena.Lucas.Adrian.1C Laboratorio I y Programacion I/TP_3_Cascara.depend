@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1495545772 source:c:\users\alumno\desktop\tp n3 entrega 02-06-17\intento de tp\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1495545800 c:\users\alumno\desktop\tp n3 entrega 02-06-17\intento de tp\tp_3_cascara\funciones.h
+
+1495545799 source:c:\users\alumno\desktop\tp n3 entrega 02-06-17\intento de tp\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1496157684 source:c:\users\alumno\desktop\tp n3 entrega 02-06-17\tp 3 acttualizado xd\tp n3 entrega 02-06-17\intento de tp\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1496157682 c:\users\alumno\desktop\tp n3 entrega 02-06-17\tp 3 acttualizado xd\tp n3 entrega 02-06-17\intento de tp\tp_3_cascara\funciones.h
+
+1496157753 source:c:\users\alumno\desktop\tp n3 entrega 02-06-17\tp 3 acttualizado xd\tp n3 entrega 02-06-17\intento de tp\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1496456561 source:c:\users\lucas\desktop\tp 3 actualizado xd\tp n3 entrega 02-06-17\intento de tp\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1496456244 c:\users\lucas\desktop\tp 3 actualizado xd\tp n3 entrega 02-06-17\intento de tp\tp_3_cascara\funciones.h
+
+1496456151 source:c:\users\lucas\desktop\tp 3 actualizado xd\tp n3 entrega 02-06-17\intento de tp\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
