@@ -68,13 +68,6 @@ void borrarPersona(EPersona lista[], int tam)
                 system("cls");
             }
         }
-        if(auxDNI != lista[i].dni)
-        {
-            printf("\nNo se a encontrado un DNI!!!\n");
-                system("pause");
-                system("cls");
-                break;
-        }
     }
 
 }
