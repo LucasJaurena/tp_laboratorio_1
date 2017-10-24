@@ -45,11 +45,6 @@ int agregarPelicula(eMovie* movies, int tam)
     {
         for(i=0; i<tam; i++)
         {
-            printf("%d\n",(movies+i)->estado);
-        }
-
-        for(i=0; i<tam; i++)
-        {
             if((movies+i)->estado == 0)
             {
                 printf("\nIngrese el titulo de la pelicula: ");
@@ -290,9 +285,9 @@ void generarPagina(eMovie* movies, int tam)
         {
             fprintf(archivoDePeliculasHTML, "<article class='col-md-4 article-intro'><a href='#'>\
                          <img class='img-responsive img-rounded' src=' %s'alt=''>\
-                         </a><h3><a href='#'> %s</a></h3><ul><li>Género: %s</li>\
+                         </a><h3><a href='#'> %s</a></h3><ul><li>GÃ©nero: %s</li>\
                         <li>Puntaje: %d</li>\
-                        <li>Duración: %d</li>\
+                        <li>DuraciÃ³n: %d</li>\
                         </ul> <p>%s.</p>\
                         </article>\n", (movies+i)->linkImagen, (movies+i)->titulo, (movies+i)->genero, (movies+i)->puntaje, (movies+i)->duracion, (movies+i)->descripcion);
         }
